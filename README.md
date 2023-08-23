@@ -1,7 +1,7 @@
 
 **About Me**
 - 👋 Hi, I’m @Ginger
-- I'm a  engineer in bussines manager
+- I'm a  engineer in bussines Administration
 - 🌱 I’m currently learning Java/ Kotlin mobile development
 - ⚡ I love traveling✈️, programming💻, mobile apps 
 - 💞️ I’m looking to collaborate on  android studio ,java ,kotlin
